@@ -10,6 +10,5 @@
 <body>
     <h1>Hi there!</h1>
     <h2>Hello there! (but like with Obi-wan's accent)</h2>
-    <h3>HIIIIIIIIIII</h3>
 </body>
 </html>
